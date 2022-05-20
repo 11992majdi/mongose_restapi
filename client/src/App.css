@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background: linear-gradient(rgb(214, 185, 214),rgb(172, 43, 184));
+  font-family: system-ui;
+  font-size:20px ;
+   height: 200vh;
+}
+
+
+button:hover{
+  transform: scale(1.5);
+  transition:0.4s ;
+  
+}
